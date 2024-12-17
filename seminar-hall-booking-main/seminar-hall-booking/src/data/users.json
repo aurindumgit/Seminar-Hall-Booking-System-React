@@ -1,0 +1,22 @@
+[
+    {
+      "u_name": "user1",
+      "email": "user1@gmail.com",
+      "pass": "pass1",
+      "requests": [
+        {
+            "request_name": "Seminar on AI",
+            "date": "2024-12-20",
+            "status": "pending"
+            
+          }
+      ]
+    },
+    {
+        "u_name":"user2",
+      "email": "user2@gmail.com",
+      "pass": "pass2",
+      "requests": []
+    }
+  ]
+  
